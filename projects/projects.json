@@ -14,6 +14,20 @@
       ]
     },
     {
+      "name": "Sky Store",
+      "thumb": "skystore/thumb.png",
+      "desc": "A TVOD web site, the site is built top to bottom with Angular and RequireJS",
+      "url": "http://store.sky.com",
+      "info": "http://store.sky.com",
+      "submitter": "ahmednuaman",
+      "submissionDate": "2013-12-04",
+      "tags": [
+        "tvod", "sky", "video", "vod", "on demand", "Entertainment",
+        "Animations", "tweenmax", "tweenlite", "greensock",
+        "No jQuery"
+      ]
+    },
+    {
       "name": "Shortkeys for Chrome",
       "thumb": "shortkeys-chrome/thumb.png",
       "desc": "A Chrome extension for custom keyboard shortcuts. Angular powers the admin/options UI",
@@ -1354,7 +1368,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1521,12 +1535,12 @@
       ]
     },
     {
-      "name": "LicensingJS", 
-      "thumb": "licensingjs/thumb.png", 
+      "name": "LicensingJS",
+      "thumb": "licensingjs/thumb.png",
       "desc": "Full crud app that tracks Contractor and Business Licenses using Angular, Breeze, toastr and WebApi, deployed on Azure",
-      "url": "http://licensingjs.azurewebsites.net/", 
-      "info": "http://plus.google.com/u/0/102437918402681897261/", 
-      "submitter": "mgbee8", 
+      "url": "http://licensingjs.azurewebsites.net/",
+      "info": "http://plus.google.com/u/0/102437918402681897261/",
+      "submitter": "mgbee8",
       "submissionDate": "2013-03-22",
       "tags": [
         "Demo",
@@ -1546,8 +1560,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production", 
-        "Travel", 
+        "Production",
+        "Travel",
         "jQuery",
         "CSS3",
         "PlayFramework",
